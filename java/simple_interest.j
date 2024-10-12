@@ -16,4 +16,5 @@ public static int simple_interest(int P, int R, int T) {
   mips.print_d(SI);
   mips.print_ci('\n');
   return 0;
+  
 }
